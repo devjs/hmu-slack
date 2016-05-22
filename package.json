@@ -8,6 +8,9 @@
     "type": "git",
     "url": "https://github.com/devjs/hmu-slack"
   },
+  "scripts": {
+    "test": "ava test"
+  },
   "private": false,
   "files": [
     "lib"
@@ -19,7 +22,11 @@
     "eslint-config-google": "^0.4.0"
   },
   "dependencies": {
-    "hmu-plugin": "^0.2.0"
+    "bluebird": "^3.4.0",
+    "hmu-plugin": "^0.2.0",
+    "promise-routine": "^1.0.0",
+    "request": "^2.72.0",
+    "request-promise": "^3.0.0"
   },
   "keywords": [
     "hmu",
