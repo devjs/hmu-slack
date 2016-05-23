@@ -1,5 +1,5 @@
 # Hit Me Up for Slack
-> Hit Me Up with slack team name availability.
+> Hit me up with slack team name availability.
 
 This is a [Hit Me Up][hmu] plugin for checking [Slack][slack] team name availability.
 
