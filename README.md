@@ -1,20 +1,30 @@
-# hmu-slack
-> hmu plugin to check slack team name availability
+# Hit Me Up for Slack
+> Hit Me Up with slack team name availability.
+
+This is a [Hit Me Up][hmu] plugin for checking [Slack][slack] team name availability.
 
 ## Installation
+For using the on the command line:
 ```shell
-$ npm install -g hmu-slack
+$ npm install --global hmu-slack
 ```
 
 ## Usage
 ```shell
-$ hmu slack <name>...
+$ hmu slack <...names>
 ```
 
 ## Credits
-| ![seanc][avatar] |
-|:---:|
-| [Sean Wilson][github] |
+| ![seanc][seanc-avatar] | ![jamen][jamen-avatar] |
+|:---:|:---:|
+| [Sean Wilson][seanc-github] | [Jamen Marzonie][jamen-github] |
 
-  [avatar]: https://avatars.githubusercontent.com/u/13725538?v=3&s=125
-  [github]: https://github.com/seanc
+## License
+[MIT](LICENSE) &copy; Sean Wilson
+
+[seanc-avatar]: https://avatars.githubusercontent.com/u/13725538?v=3&s=125
+[seanc-github]: https://github.com/seanc
+[jamen-avatar]: https://avatars.githubusercontent.com/u/6251703?v=3&s=125
+[jamen-github]: https://github.com/jamen
+[hmu]: https://github.com/jamen/hmu
+[slack]: https://slack.com/
