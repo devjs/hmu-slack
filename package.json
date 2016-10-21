@@ -1,7 +1,7 @@
 {
   "name": "hmu-slack",
   "author": "Sean Wilson",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Hit me up with slack team name availability",
   "main": "index.js",
   "repository": "devjs/slack",
